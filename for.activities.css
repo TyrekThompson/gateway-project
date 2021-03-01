@@ -1,0 +1,53 @@
+nav {
+    background-color: turquoise;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    font-size: 150%;
+  }
+    h2{
+  
+      color:black; 
+      position: relative;
+      text-align: center;
+      font-size: 200%;
+    }
+    h3{
+      color:black;
+       font-size: 100%;
+    }
+    h4{
+      color: black;
+      font-size: 100%;
+    }
+    h5{
+      color:black;
+      font-size: 100%;
+    }
+    h6{
+      color:black ;
+      font-size: 100%;
+    }
+  
+    p{
+      display: block;
+      color: black;
+      padding: 14px 16px;
+      text-decoration: none;
+      border-style: solid;
+      font-size: 150%;
+    }
+  
+    
+    section {
+      margin: 0;
+      background-color:turquoise ;
+      text-align: center;
+      font-family: arial;
+      font-size: 150%;
+    }
+    
+    
+    
+    

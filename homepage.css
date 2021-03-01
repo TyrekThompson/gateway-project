@@ -1,0 +1,61 @@
+h1{
+    color: turquoise;
+  }
+h2{
+    color: black;
+    font-size: 200%;
+    background-color: turquoise;
+
+  }
+nav {
+    background-color: turquoise;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 200%;
+    text-align: center;
+  }
+  .body {
+    background-color: black;
+  }
+  .slider{ 
+    width:800px;
+    height:400px;
+    background: url(https://i.postimg.cc/3rCybkFc/Toronto-4.jpg);
+    margin:100px auto;
+    animation: slide 40s infinite;
+  }
+  
+  @keyframes slide {
+    25% {
+    background: url(https://i.postimg.cc/W4C9KWTT/winter.jpg);
+      }
+    50%{
+      background: url(https://i.postimg.cc/nzmmLT7F/tyrek.png);
+    }
+    75%{
+      background: url(https://i.postimg.cc/mg1CV1R9/t.jpg);
+    }
+    100%{
+      background: url(https://i.postimg.cc/jjyQXnK5/img-html-3.jpg);
+    }
+  }
+  
+footer {
+      width: 100% ;
+      background-color: turquoise;
+      text-align: center; 
+      font-size: 200%; 
+    }
+
+header {
+        margin: 0;
+        background-color: black ;
+        text-align: center;
+        font-family: arial;
+        font-size: 200%;
+      }
+p{
+    color: turquoise;
+    background-color: black;
+}
